@@ -1,4 +1,10 @@
-{
-  "iBall_Lion_Tarang_Woofer": "https://raw.githubusercontent.com/45h1m/statics/refs/heads/main/angryRemote/iBall%20Lion%20Tarang%20-%20Woofer.arem",
-  "LG_TV_Generic": "https://raw.githubusercontent.com/45h1m/statics/refs/heads/main/angryRemote/LG_TV_REMOTE.arem"
-}
+[
+  {
+    "remoteName": "iBall_Lion_Tarang_Woofer",
+    "remoteURL": "https://raw.githubusercontent.com/45h1m/statics/refs/heads/main/angryRemote/iBall%20Lion%20Tarang%20-%20Woofer.arem"
+  },
+  {
+    "remoteName": "LG_TV_Generic",
+    "remoteURL": "https://raw.githubusercontent.com/45h1m/statics/refs/heads/main/angryRemote/LG_TV_REMOTE.arem"
+  }
+]
